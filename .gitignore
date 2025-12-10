@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code / editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+.DS_Store
